@@ -36,3 +36,16 @@ h1 {
 p {
   font-size: 20px;
 }
+
+img{
+    height: 200px;
+}
+.categoria-videos{
+    display: fex;
+    overflow: -x:auto;
+    gap:10px
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
